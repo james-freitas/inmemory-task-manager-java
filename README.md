@@ -17,7 +17,7 @@ A simple **Spring Boot REST API** for managing tasks **without a database**. Tas
 
 ## 🛠️ Tech Stack
 
-- **Java 17+**
+- **Java 23+**
 - **Spring Boot 3+**
 - **Spring Web**
 
